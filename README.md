@@ -25,6 +25,10 @@ This README would normally document whatever steps are necessary to get your app
 * php artisan serve
 * npm run watch
 
+### For Online Server deployement ###
+* if you are deployin on server ,, after uploading to server inside public folder and delete storage folder
+* run www.yourdomain.com/foo
+
 ## Link ##
 
 * url/login       
