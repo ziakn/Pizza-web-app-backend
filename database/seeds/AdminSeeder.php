@@ -16,6 +16,6 @@ class AdminSeeder extends Seeder
                 'name' => 'admin',
                 'email' => 'admin@pizza.com',
                 'password' =>bcrypt('asdasdasd'),
-            ],
+            ]);
     }
 }

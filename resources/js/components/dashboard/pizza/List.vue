@@ -33,7 +33,7 @@
                         </v-col>
                     </v-row>
 					<v-toolbar flat color="white">
-						<v-toolbar-title></v-toolbar-title>
+						<v-toolbar-title>Pizza  List</v-toolbar-title>
 						<v-divider class="mx-2" inset vertical></v-divider>
 						<v-spacer></v-spacer>
 

@@ -4,26 +4,40 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is Pizza Web App Admin Panel with Login System  (SPA)
+* Version 1.0.0
+* [Youtube Video](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
-* Summary of set upasdafwefwfw
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* The Pizza Web App Admin Panel is For onlline pizza delivery system, The Admin Can add diffrent type of categories , Ingredient, Cusines, Pizza etc and much more..
+* install repositry link 
+* download node module in your system
+* go inside {Pizza Web App Backend} 
+* open terminal and go to {Pizza Web App Backend} folder or simply open VSCODE Terminal
+* npm install
+* cp.env.example .env
+* composer update
+* php artisan key:generate
+* setup database setting in env file
+* php artisan migrate:refresh --seed 
+* php artisan serve
+* npm run watch
 
-### Contribution guidelines ###
+## Link ##
 
-* Writing tests
-* Code review
-* Other guidelines
+* url/login       
+* url/dashboard
+
+### Technology Used ###
+
+* Laravel 7
+* PHP 7
+* MYSQL 
+* Vuejs
+* Vuetify
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* ziakn03@gmail.com
+* +97450684583
