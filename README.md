@@ -24,9 +24,10 @@ This README would normally document whatever steps are necessary to get your app
 * php artisan storage:link
 * php artisan serve
 * npm run watch
+* database is also available in repositry folder name deliverypizza.sql
 
 ### For Online Server deployement ###
-* if you are deployin on server ,, after uploading to server inside public folder and delete storage folder
+* if you are deployin on server ,, after uploading to server go inside public folder  delete storage folder
 * run www.yourdomain.com/foo
 
 ## Link ##
