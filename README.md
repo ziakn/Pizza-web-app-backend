@@ -6,7 +6,6 @@ This README would normally document whatever steps are necessary to get your app
 
 * This is Pizza Web App Admin Panel with Login System  (SPA)
 * Version 1.0.0
-* [Youtube Video](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
