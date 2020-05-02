@@ -27,6 +27,7 @@ This README would normally document whatever steps are necessary to get your app
 * database is also available in repositry folder name deliverypizza.sql
 
 ### For Online Server deployement ###
+* npm run production
 * if you are deployin on server ,, after uploading to server go inside public folder  delete storage folder
 * run www.yourdomain.com/foo
 
