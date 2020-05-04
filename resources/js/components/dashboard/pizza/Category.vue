@@ -140,8 +140,9 @@ export default {
 			
 		},
 		defaultItem: {
-			name:"",
-			
+			description:"",
+			title:"",
+			status:1,
 		},
 		dataStatus: [
 			{ name: "Active", value: 1 },
